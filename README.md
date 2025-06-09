@@ -11,6 +11,5 @@
   ### Social
  <div>
    <a href="https://instagram.com/leonrdo_amengual" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/instagram-new.png"/></a>
-  <a href = "Leonardo.amengual@outlook.com"><img src="https://img.icons8.com/fluency/48/000000/gmail.png"/></a>
   <a href="https://www.linkedin.com/in/leonardo-amengual-049562205/" target="_blank"><img src="https://img.icons8.com/fluency/48/000000/linkedin.png"/></a> 
  </div>
