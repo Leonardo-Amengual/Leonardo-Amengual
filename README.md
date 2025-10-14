@@ -2,7 +2,7 @@
 
   ## 👋 Hi, I'm Leonardo Amengual
   
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Amengual&theme=radical&rank_icon=github&card_width=300&show_icons=true&bg_color=90,0f0c29,302b63,24243e" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Amengual&theme=gruvbox&rank_icon=github&card_width=300&show_icons=true&bg_color=90,282828,3c3836,1d2021" />
 
 </div>
 
@@ -13,7 +13,6 @@
 </picture>
 
 <div align="center" style="display: inline_block"><br>
-
 
   <img align="center" alt="Leo-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
   <img align="center" alt="Leo-PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg">
