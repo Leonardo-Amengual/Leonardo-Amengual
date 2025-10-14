@@ -2,7 +2,7 @@
 
   ## 👋 Hi, I'm Leonardo Amengual
   
-  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Amengual&theme=tokyonight&rank_icon=github&card_width=300&show_icons=true&bg_color=90,000000,040449" />
+  <img height=300 align="center" src="https://github-readme-stats.vercel.app/api?username=Leonardo-Amengual&theme=radical&rank_icon=github&card_width=300&show_icons=true&bg_color=90,0f0c29,302b63,24243e" />
 
 </div>
 
@@ -16,8 +16,6 @@
 <div align="center" style="display: inline_block"><br>
 
   <img align="center" alt="Leo-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Leo-HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg">
-  <img align="center" alt="Leo-CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
   <img align="center" alt="Leo-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain-wordmark.svg">
   <img align="center" alt="Leo-Angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Leo-DotNet" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
